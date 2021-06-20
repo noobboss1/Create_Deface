@@ -11,7 +11,7 @@ $ pkg install python python2 git -y
 
 $ pip2 install requests && pip2 install lolcat
 
-$ git clone https://github.com/Create_Deface
+$ git clone https://github.com/noobboss1/Create_Deface
 
 $ cd Create_Deface
 
