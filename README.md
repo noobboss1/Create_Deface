@@ -7,9 +7,13 @@ Auto create deface. Those who want to make deface but can't do HTML coding. This
 
 $ apt-get update && apt-get upgrade -y
 
-$ pkg install python python2 git -y
+$ pkg install python
 
-$ pip2 install requests && pip2 install lolcat
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip2 install lolcat
 
 $ git clone https://github.com/noobboss1/Create_Deface
 
