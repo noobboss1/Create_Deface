@@ -13,6 +13,6 @@ $ pip2 install requests && pip2 install lolcat
 
 $ git clone https://github.com/noobboss1/Create_Deface
 
-$ cd Create_Deface
+$ cd CreateDeface
 
 $ python2 Deface.py
